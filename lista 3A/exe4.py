@@ -1,9 +1,7 @@
-num = int(input('Número: '))
-x = 1
-fib = 0
-while num >= x:
-    fib = fib + x
-    x += 1
+def fib(valor):
+    if valor < 2:
+        return valor
+    else:
+        return fib(valor-1) + fib(valor-2)
 
-print('resultado %d' %x)
-#
+print(fib(int(input('Valor: '))))
