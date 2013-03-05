@@ -8,5 +8,5 @@ while dividendo % divisor > 0:
     resto = dividendo % divisor
     dividendo = divisor
     divisor = resto
-    print('%.f MDC'%divisor)
+print('%.f MDC'%divisor)
 
