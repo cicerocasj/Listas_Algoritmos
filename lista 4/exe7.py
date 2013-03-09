@@ -11,8 +11,4 @@ def exercicio():
         if temp[i]> media:
             total.append(mes[i])
             print('%s <=> Temperatura = %s'%(mes[i],temp[i]))
-
-            #for i in range(0,len(total)):
-        #print('Mes = %s'%total[i])
-
 exercicio()
