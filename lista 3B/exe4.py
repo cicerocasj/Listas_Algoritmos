@@ -1,10 +1,6 @@
-i = 2
-num = int(input('Numero: '))
-primo = []
-res=0
+i,primo,res,num = 2,[],0,int(input('Numero: '))
 while res != 1:
     if num % i == 0:
-        print(i)
         res = num / i
         num = res
         primo.append(i)

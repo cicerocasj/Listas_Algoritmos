@@ -1,30 +1,28 @@
-compra = int(input('Valor compra: '))
-pago = int(input('Valor pago: '))
-troco = pago - compra
-retorno = {}
-if troco%50 ==0:
-    retorno['R$50'] = int(troco/50)
+com,pag = int(input('Valor compra: ')),int(input('Valor pago: '))
+tro,ret = pag - com, {}
+if tro%50 ==0:
+    ret['R$50'] = int(tro/50)
 else:
-    retorno['R$50'] = int(troco/50)
-    troco = troco % 50
-    if troco%20 ==0:
-        retorno['R$20'] = int(troco/20)
+    ret['R$50'] = int(tro/50)
+    tro = tro % 50
+    if tro%20 ==0:
+        ret['R$20'] = int(tro/20)
     else:
-        retorno['R$20'] = int(troco/20)
-        troco = troco % 20
-        if troco%10 ==0:
-            retorno['R$10'] = int(troco/10)
+        ret['R$20'] = int(tro/20)
+        tro = tro % 20
+        if tro%10 ==0:
+            ret['R$10'] = int(tro/10)
         else:
-            retorno['R$10'] = int(troco/10)
-            troco = troco % 10
-            if troco%5 ==0:
-                retorno['R$5']= int(troco/5)
+            ret['R$10'] = int(tro/10)
+            tro = tro % 10
+            if tro%5 ==0:
+                ret['R$5']= int(tro/5)
             else:
-                retorno['R$5']= int(troco/5)
-                troco = troco%5
-                if troco%2==0:
-                    retorno['R$2']= int(troco/2)
+                ret['R$5']= int(tro/5)
+                tro = tro%5
+                if tro%2==0:
+                    ret['R$2']= int(tro/2)
                 else:
-                    retorno['R$2']=int(troco/2)
-                    retorno['R$1']=troco%2
-print(retorno)
+                    ret['R$2']=int(tro/2)
+                    ret['R$1']=tro%2
+print(ret)

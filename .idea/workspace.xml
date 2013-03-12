@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f03e590-e2b3-42bc-973a-ca49433c8b24" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lista 4/exe7.py" afterPath="$PROJECT_DIR$/lista 4/exe7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lista 5/exe5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lista 3B/exe2.py" afterPath="$PROJECT_DIR$/lista 3B/exe2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lista 3B/exe4.py" afterPath="$PROJECT_DIR$/lista 3B/exe4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lista 3B/exe5.py" afterPath="$PROJECT_DIR$/lista 3B/exe5.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Listas Algoritmos.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362803353797" ignored="false" />
-    <file path="/exe4.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362760493944" ignored="false" />
+    <file path="/Dummy.txt" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1363096012994" ignored="false" />
+    <file path="/exe4.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1363099863868" ignored="false" />
     <file path="/exe5A.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362495116391" ignored="false" />
-    <file path="/exe2.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362752363506" ignored="false" />
+    <file path="/exe2.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1363099838437" ignored="false" />
     <file path="/testes.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362669836409" ignored="false" />
-    <file path="/exe3.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362753579645" ignored="false" />
-    <file path="/exe5.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362785091247" ignored="false" />
-    <file path="/exe1.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362748388095" ignored="false" />
+    <file path="/exe3.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1363099852641" ignored="false" />
+    <file path="/exe5.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1363103039199" ignored="false" />
+    <file path="/exe1.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1363099806920" ignored="false" />
     <file path="/exe6.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362798265123" ignored="false" />
     <file path="/exe7.py" changelist="0f03e590-e2b3-42bc-973a-ca49433c8b24" time="1362803247079" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,55 +36,64 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="exe5.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lista 4/exe5.py">
+      <file leaf-file-name="exe2.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lista 3B/exe2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
+            <state line="22" column="28" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="exe4.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lista 3B/exe4.py">
+        <entry file="file://$PROJECT_DIR$/lista 5/exe4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="12" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+            <state line="6" column="12" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exe5.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lista 5/exe5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="33" selection-start="1573" selection-end="1573" vertical-scroll-proportion="0.54986525">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exe1.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lista 5/exe1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="17" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="exe2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lista 4/exe2.py">
+        <entry file="file://$PROJECT_DIR$/lista 5/exe2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="12" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0">
+            <state line="8" column="12" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exe6.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lista 4/exe6.py">
+      <file leaf-file-name="exe3.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lista 5/exe3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="38" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
+            <state line="6" column="12" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exe7.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lista 4/exe7.py">
+      <file leaf-file-name="exe5.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lista 3B/exe5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="61" selection-start="534" selection-end="534" vertical-scroll-proportion="0.36363637">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exe4.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lista 4/exe4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="11" selection-start="0" selection-end="394" vertical-scroll-proportion="0.0">
+            <state line="1" column="31" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,21 +117,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lista 3A/exe4.py" />
-        <option value="$PROJECT_DIR$/lista 3A/exe2.py" />
-        <option value="$PROJECT_DIR$/lista 3A/exe5A.py" />
-        <option value="$PROJECT_DIR$/lista 3B/testes.py" />
         <option value="$PROJECT_DIR$/lista 3B/exe3.py" />
-        <option value="$PROJECT_DIR$/lista 3B/exe5.py" />
-        <option value="$PROJECT_DIR$/lista 3B/exe2.py" />
         <option value="$PROJECT_DIR$/lista 4/exe1.py" />
         <option value="$PROJECT_DIR$/lista 4/exe2.py" />
         <option value="$PROJECT_DIR$/lista 4/exe3.py" />
         <option value="$PROJECT_DIR$/lista 4/exe4.py" />
         <option value="$PROJECT_DIR$/lista 4/exe5.py" />
-        <option value="$PROJECT_DIR$/lista 3B/exe4.py" />
         <option value="$PROJECT_DIR$/lista 4/exe6.py" />
         <option value="$PROJECT_DIR$/lista 4/exe7.py" />
+        <option value="$PROJECT_DIR$/lista 3B/exe4.py" />
+        <option value="$PROJECT_DIR$/lista 3B/exe5.py" />
+        <option value="$PROJECT_DIR$/lista 3B/exe2.py" />
+        <option value="$PROJECT_DIR$/lista 5/exe1.py" />
+        <option value="$PROJECT_DIR$/lista 5/exe2.py" />
+        <option value="$PROJECT_DIR$/lista 5/exe3.py" />
+        <option value="$PROJECT_DIR$/lista 5/exe4.py" />
+        <option value="$PROJECT_DIR$/lista 5/exe5.py" />
       </list>
     </option>
   </component>
@@ -155,7 +168,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,18 +186,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Listas Algoritmos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Listas_Algoritmos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lista 5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="H:/aula_27_02" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -195,24 +222,7 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.exe7">
-    <configuration default="false" name="exe2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Listas Algoritmos" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista 4/exe2.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.exe5">
     <configuration default="false" name="exe3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,40 +240,6 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="exe4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Listas Algoritmos" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista 4/exe4.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="exe5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Listas Algoritmos" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista 4/exe5.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="exe7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,6 +252,57 @@
       <module name="Listas Algoritmos" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista 4/exe7.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exe4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Listas Algoritmos" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista 5/exe4.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exe1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Listas Algoritmos" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista 5/exe1.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exe5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Listas Algoritmos" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista 5/exe5.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -335,19 +362,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.exe2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exe3" />
+      <item index="0" class="java.lang.String" itemvalue="Python.exe3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exe7" />
       <item index="2" class="java.lang.String" itemvalue="Python.exe4" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exe5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exe7" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exe1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exe5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.exe7" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exe5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exe5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exe1" />
         <item index="2" class="java.lang.String" itemvalue="Python.exe4" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exe3" />
-        <item index="4" class="java.lang.String" itemvalue="Python.exe2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exe5" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exe4" />
       </list>
     </recent_temporary>
   </component>
@@ -404,28 +431,32 @@
       <created>1362803359889</created>
       <updated>1362803359889</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lista 4 pronta">
+      <created>1362803415161</created>
+      <updated>1362803415161</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5024311" sideWeight="0.66022545" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1726094" sideWeight="0.66022545" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33977455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33977455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -491,46 +522,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lista 3A/exe1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.5652174" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista 3A/exe3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="25" selection-start="122" selection-end="122" vertical-scroll-proportion="0.3043478" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista 3A/exe5A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="250" selection-end="250" vertical-scroll-proportion="0.5217391" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista 3A/exe4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.3043478" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista 3B/exe5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista 3B/exe3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista 3B/exe1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista 3B/exe2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="0" selection-end="897" vertical-scroll-proportion="0.6505102" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lista 4/exe1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" />
@@ -539,13 +530,6 @@
     <entry file="file://$PROJECT_DIR$/lista 4/exe3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="12" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista 3B/exe4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lista 4/exe5.py">
@@ -578,7 +562,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lista 4/exe7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="61" selection-start="534" selection-end="534" vertical-scroll-proportion="0.36363637">
+        <state line="14" column="0" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista 3B/exe3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.25714287">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista 3B/exe4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="48" selection-end="48" vertical-scroll-proportion="0.044270832">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista 3B/exe5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="31" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista 3B/exe2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista 5/exe1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="17" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista 5/exe2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="12" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista 5/exe3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista 5/exe4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista 5/exe5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="33" selection-start="1573" selection-end="1573" vertical-scroll-proportion="0.54986525">
           <folding />
         </state>
       </provider>
